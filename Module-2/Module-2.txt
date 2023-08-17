@@ -1,0 +1,15 @@
+Module-2
+================
+1).Collection Types
+	-List
+	-Tuple
+	-Set	
+	-Dictionary
+
+2).UDF
+	-def keywords for function define
+	-default argumnets
+	-positional arguments (direct param value)
+	-keywords arguments
+	-arbit function (tuple)
+

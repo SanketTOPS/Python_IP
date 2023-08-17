@@ -1,0 +1,26 @@
+Module-1
+================
+1).SDLC
+2).Fundamental of Python Programming
+	-Installation
+	-Enviornment setup
+	-input-output
+	-Var. declaration (Rules)
+	-Operators
+	-comments
+		-single line  #
+		-document comment  '''    '''
+	-Condition Statments
+		-if	
+		-if_else
+		-if_elif
+		-nested if
+	-looping structure
+		-while
+		-for
+	-control statments
+		-break
+		-continue
+		-
+	-string
+	
