@@ -1,0 +1,16 @@
+OOP
+===============
+1).class
+2).Object
+---------------
+3).inheritace
+	-single
+	-multiple
+	-multilevel
+4).encapsulation
+5).polymorphism
+	-method overloading
+	-method overriding
+6).access specifire/modifire
+	-public (default)
+	-private - __
